@@ -230,6 +230,20 @@ body {
   font-size: 1.2rem;
 }
 
+.search button {
+  border: 20px;
+  border-radius: 5px;
+  padding: 10px;
+  background: #666565;
+  color: #ffffff;
+  font-weight: bold;
+}
+
+.search button:hover {
+  background: #eef534;
+  color: #222;
+}
+
 .user {
   position: relative;
   width: 50px;
